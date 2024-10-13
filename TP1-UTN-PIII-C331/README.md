@@ -3,6 +3,7 @@
 <br/>
 
 # Trabajo Práctico Parte 1 — HTML CSS
+# Trabajo en conjunto con Fausto Forcherio.
 
 ## Objetivo
 
@@ -45,6 +46,9 @@ Además, agregue la siguiente información a su archivo `README`:
 
 - ¿Hay alguna mejora que pueda hacer en su envío?
 - ¿Qué haría de manera diferente si se le asignara más tiempo?
+- Corregiriamos el tamaño de el carrete para hacerlo mas ajustable al responsive.
+- Haría mas correcciones esteticas.
+- Querys para tamaños de pantalla aun mas grandes que el maximo que hicimos.
   <br/>
   <br/>
 
