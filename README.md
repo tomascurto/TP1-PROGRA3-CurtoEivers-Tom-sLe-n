@@ -1,4 +1,4 @@
-<img src="./assets/utn_logo.svg" width="150">
+<img src="TP1-UTN-PIII-C331/assets/utn_logo.svg" width="150">
 <br/>
 <br/>
 
