@@ -29,7 +29,7 @@ En base a su experiencia en el desarrollo de la parte práctica del TP1
 - ¿Qué haría de manera diferente si se le asignara más tiempo?<br/>
   `Si se me asignara mas tiempo corregiria lo mencionado del carroussel y ademas reemplazaria el grid creado por el de bootstrap que se explico en la clase siguiente de la entrega. `<br/><br/>
 - En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
-  `Llevo bastante tiempo aprender como configurar el navbar y sus parametros, ademas de algunos posicionamientos en general`<br/><br/>
+  `Llevó bastante tiempo aprender como configurar el navbar y sus parametros, ademas de algunos posicionamientos en general. `<br/><br/>
 - En las entregas, detectamos una gran variedad de temáticas únicas e interesantes. ¿Podría decirnos en qué se inspiró para realizar su página web? ¿Utilizó alguna página existente como referencia?<br/>
-  `En lo personal quería usar el carroussel de fotos de bootstrap por que me pareció interesante, y recordé los televisores en un centro odontológico que pasaban automaticamente fotos o videos de los distintos
-  tratamientos. Visualmente use levemente de guía esta página web http://www.centroodontologicobeiro.com.ar/`<br/><br/>
+  `En lo personal quería usar el carroussel de fotos de bootstrap por que me pareció interesante, y pensando en como implementarlo recordé los televisores en un centro odontológico que pasaban automaticamente
+  fotos o videos de los distintos tratamientos. Visualmente use levemente de guía esta página web http://www.centroodontologicobeiro.com.ar/`<br/><br/>
