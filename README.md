@@ -25,7 +25,7 @@ El objetivo de este trabajo práctico es que los estudiantes compartan su experi
 En base a su experiencia en el desarrollo de la parte práctica del TP1
 
 - ¿Hay alguna mejora que pueda hacer en su envío? (TP1)<br/>
-  `Me gustaria corregir la manera en que se adapra al responsive el carroussel de fotos que se implemento.`<br/><br/>
+  `Me gustaria corregir la manera en que se adapta el carroussel de fotos que se implemento al cambiar el tamaño de pantalla para que no quede espacio en blanco.`<br/><br/>
 - ¿Qué haría de manera diferente si se le asignara más tiempo?<br/>
   `Si se me asignara mas tiempo corregiria lo mencionado del carroussel y ademas reemplazaria el grid creado por el de bootstrap que se explico en la clase siguiente de la entrega. `<br/><br/>
 - En su trabajo, ¿cuál considera que fue lo más difícil de realizar?<br/>
